@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Echoos1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Matthew DiMaggio
 
-<!---
-Echoos1/Echoos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an Architecture student at Lawrence Technological University studying Robotics Applications in Architecture
+
+I mainly code in Python and ABB RAPID, and my projects are generally robotics focused
